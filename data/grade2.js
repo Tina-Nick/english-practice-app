@@ -1,1 +1,2 @@
-const grade2=[]
+const grade2 = [
+];
