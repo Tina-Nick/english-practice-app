@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>和文英作・語順整序 練習</title>
+
+<link rel="stylesheet" href="style.css">
+
+<script src="data/grade1.js"></script>
+<script src="data/grade2.js"></script>
+<script src="data/grade3.js"></script>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>和文英作・語順整序</h1>
+
+<div class="settings">
+
+<h2>問題形式</h2>
+
+<label>
+<input type="radio"
+name="mode"
+value="translation"
+checked>
+和文英作
+</label>
+
+<label>
+<input type="radio"
+name="mode"
+value="sorting">
+語順整序
+</label>
+
+<h2>出題範囲</h2>
+
+<select id="category">
+
+<option value="g1">中1ランダム</option>
+
+<option value="g2">中2ランダム</option>
+
+<option value="g3">中3ランダム</option>
+
+<option value="g12">中1〜2ランダム</option>
+
+<option value="all">中1〜3ランダム</option>
+
+<option value="wrong">
+苦手問題のみ
+</option>
+
+</select>
+
+
+<h2>問題数</h2>
+
+<select id="count"></select>
+
+<button onclick="startQuiz()">
+スタート
+</button>
+
+</div>
+
+
+<div id="quizArea"></div>
+
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>
