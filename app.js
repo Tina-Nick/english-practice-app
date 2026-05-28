@@ -70,6 +70,23 @@ function startQuiz(){
    data=allQuestions;
 
  }
+else if(category==="unit1"){
+
+   data=
+   grade1.filter(
+   q=>q.unit===1
+   );
+
+}
+
+else if(category==="unit2"){
+
+   data=
+   grade1.filter(
+   q=>q.unit===2
+   );
+
+}
 
  else if(category==="wrong"){
 
