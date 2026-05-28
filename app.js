@@ -70,20 +70,21 @@ function startQuiz(){
    data=allQuestions;
 
  }
-else if(category==="unit1"){
+else if(category.startsWith("unit")){
 
-   data=
-   grade1.filter(
-   q=>q.unit===1
+   let unitNumber=
+
+   Number(
+   category.replace(
+   "unit",
+   ""
+   )
    );
 
-}
-
-else if(category==="unit2"){
-
    data=
+
    grade1.filter(
-   q=>q.unit===2
+   q=>q.unit===unitNumber
    );
 
 }
