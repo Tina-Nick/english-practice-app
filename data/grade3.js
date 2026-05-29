@@ -135,6 +135,136 @@ chunks:[
 "the book"
 ]
 
+},
+{
+id:30007,
+grade:3,
+unit:32,
+title:"受動態",
+
+japanese:
+"英語は世界中で話されています。",
+
+english:
+"English is spoken around the world.",
+
+chunks:[
+"English",
+"is",
+"spoken",
+"around",
+"the world"
+]
+
+},
+
+{
+id:30008,
+grade:3,
+unit:32,
+title:"受動態",
+
+japanese:
+"この橋は去年建てられました。",
+
+english:
+"This bridge was built last year.",
+
+chunks:[
+"This bridge",
+"was",
+"built",
+"last year"
+]
+
+},
+
+{
+id:30009,
+grade:3,
+unit:32,
+title:"受動態",
+
+japanese:
+"このコンピュータは多くの人々によって使われています。",
+
+english:
+"This computer is used by many people.",
+
+chunks:[
+"This computer",
+"is",
+"used",
+"by",
+"many people"
+]
+
+},
+
+{
+id:30010,
+grade:3,
+unit:32,
+title:"受動態",
+
+japanese:
+"その歌は日本でよく知られています。",
+
+english:
+"The song is well known in Japan.",
+
+chunks:[
+"The song",
+"is",
+"well known",
+"in",
+"Japan"
+]
+
+},
+
+{
+id:30011,
+grade:3,
+unit:32,
+title:"受動態",
+
+japanese:
+"その本は多くの学生に読まれています。",
+
+english:
+"The book is read by many students.",
+
+chunks:[
+"The book",
+"is",
+"read",
+"by",
+"many students"
+]
+
+},
+
+{
+id:30012,
+grade:3,
+unit:32,
+title:"受動態",
+
+japanese:
+"昼食は12時に作られます。",
+
+english:
+"Lunch is made at twelve.",
+
+chunks:[
+"Lunch",
+"is",
+"made",
+"at",
+"twelve"
+]
+
 }
 
 ];
