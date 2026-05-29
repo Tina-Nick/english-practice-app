@@ -104,7 +104,8 @@ english:
 chunks:[
 "I",
 "want",
-"to play",
+"to",
+"play",
 "tennis"
 ]
 
@@ -125,8 +126,10 @@ english:
 chunks:[
 "He",
 "went",
-"to the library",
-"to study",
+"to",
+"the library",
+"to",
+"study",
 "English"
 ]
 
@@ -210,8 +213,10 @@ english:
 
 chunks:[
 "I",
-"have to",
-"get up",
+"have",
+"to",
+"get",
+"up",
 "early",
 "tomorrow"
 ]
@@ -231,9 +236,11 @@ english:
 "There is a book on the desk.",
 
 chunks:[
-"There is",
+"There",
+"is",
 "a book",
-"on the desk"
+"on",
+"the desk"
 ]
 
 },
@@ -251,9 +258,11 @@ english:
 "There are many trees in the park.",
 
 chunks:[
-"There are",
+"There",
+"are",
 "many trees",
-"in the park"
+"in",
+"the park"
 ]
 
 },
@@ -272,10 +281,14 @@ english:
 
 chunks:[
 "I",
-"went to bed",
+"went",
+"to",
+"bed",
 "early",
 "because",
-"I was tired"
+"I",
+"was",
+"tired"
 ]
 
 },
@@ -293,9 +306,12 @@ english:
 "It was raining, but we played soccer.",
 
 chunks:[
-"It was raining",
+"It",
+"was",
+"raining",
 "but",
-"we played",
+"we",
+"played",
 "soccer"
 ]
 
