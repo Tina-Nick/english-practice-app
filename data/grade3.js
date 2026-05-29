@@ -265,6 +265,123 @@ chunks:[
 "twelve"
 ]
 
+},
+{
+id:30013,
+grade:3,
+unit:33,
+title:"関係代名詞",
+
+japanese:
+"あそこで走っている少年は私の弟です。",
+
+english:
+"The boy who is running over there is my brother.",
+
+chunks:[
+"The boy",
+"who",
+"is",
+"running",
+"over there",
+"is",
+"my brother"
+]
+
+},
+
+{
+id:30014,
+grade:3,
+unit:33,
+title:"関係代名詞",
+
+japanese:
+"これは私が昨日買った本です。",
+
+english:
+"This is the book which I bought yesterday.",
+
+chunks:[
+"This",
+"is",
+"the book",
+"which",
+"I",
+"bought",
+"yesterday"
+]
+
+},
+
+{
+id:30015,
+grade:3,
+unit:33,
+title:"関係代名詞",
+
+japanese:
+"私はカナダに住んでいる少女を知っています。",
+
+english:
+"I know the girl who lives in Canada.",
+
+chunks:[
+"I",
+"know",
+"the girl",
+"who",
+"lives",
+"in",
+"Canada"
+]
+
+},
+
+{
+id:30016,
+grade:3,
+unit:33,
+title:"関係代名詞",
+
+japanese:
+"彼が使っているコンピュータは新しいです。",
+
+english:
+"The computer which he uses is new.",
+
+chunks:[
+"The computer",
+"which",
+"he",
+"uses",
+"is",
+"new"
+]
+
+},
+
+{
+id:30017,
+grade:3,
+unit:33,
+title:"関係代名詞",
+
+japanese:
+"私は英語を教えている先生が好きです。",
+
+english:
+"I like the teacher who teaches English.",
+
+chunks:[
+"I",
+"like",
+"the teacher",
+"who",
+"teaches",
+"English"
+]
+
 }
 
 ];
