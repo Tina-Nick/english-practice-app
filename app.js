@@ -83,7 +83,7 @@ else if(category.startsWith("unit")){
 
    data=
 
-   grade1.filter(
+   allQuestions.filter(
    q=>q.unit===unitNumber
    );
 
